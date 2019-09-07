@@ -1,0 +1,1 @@
+cmd_/home/user/host/utopia/final_code/lunix.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.16.0-0.bpo.4-common/scripts/module-common.lds --build-id  -o /home/user/host/utopia/final_code/lunix.ko /home/user/host/utopia/final_code/lunix.o /home/user/host/utopia/final_code/lunix.mod.o
